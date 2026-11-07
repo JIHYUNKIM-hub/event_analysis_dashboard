@@ -1,0 +1,4 @@
+﻿step,criterion,removed_rows,rows_after
+0_raw,원본,0,2756101
+1_drop_exact_duplicates,timestamp 포함 5개 열 값이 모두 같은 행 (첫 행 유지),460,2755641
+2_apply_cutoff,event_time >= 2015-09-15 21:00:00+00:00 행 제외,25403,2730238

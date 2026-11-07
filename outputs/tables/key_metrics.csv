@@ -1,0 +1,6 @@
+﻿metric,value,definition,value_from_visitor_table
+활성 사용자 수,1395013,이벤트(view/addtocart/transaction) 1회 이상 고유 방문자,1395013
+구매자 수,11614,transaction 1회 이상 고유 방문자,11614
+구매 횟수,17504,고유 transactionid 수,17504
+장바구니 담기 횟수,68291,addtocart 이벤트 행 수,68291
+이벤트 횟수,2730238,전체 이벤트 행 수,
